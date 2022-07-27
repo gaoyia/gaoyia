@@ -4,8 +4,6 @@
 <h3 align="center">👋 Hello! I'm gaoyia.</h3>
 <p align="center">
   <a href="https://github.com/gaoyia">GitHub</a>
-  <br/>
-  <a href="https://github.com/TsBoot">TsBoot</a>
 </p>
 
 <h3 align="center">:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
@@ -19,3 +17,17 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoyia&layout=compact&count_private=true&theme=default">
   </a>
 </p>
+
+<br/>
+<a href="https://github.com/TsBoot">TsBoot</a>
+<p align="center">
+  <a href="https://github.com/TsBoot" title="gaoyia's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=TsBoot&show_icons=true&count_private=true&layout=compact&theme=default">
+  </a>
+  <br/>
+  <a href="https://github.com/TsBoot" title="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsBoot&layout=compact&count_private=true&theme=default">
+  </a>
+</p>
+
+
