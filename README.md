@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaoyia&color=brightgreen">
 </p>
-<h3 align="center">👋 Hello! I'm gaoyia.</h3>
+<h3 align="center">👋 Hello! I'm gaoyi.</h3>
 <p align="center">
   <a href="https://github.com/gaoyia">GitHub</a>
 </p>
